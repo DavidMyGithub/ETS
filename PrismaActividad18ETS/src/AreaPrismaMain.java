@@ -1,4 +1,4 @@
-
+//Esto es una actividad de ETS
 
 import java.util.ArrayList;
 import java.util.Collections;
